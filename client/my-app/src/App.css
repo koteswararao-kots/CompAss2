@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: thistle;
+}
+.App {
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+.update {
+  margin-top: 10px;
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid gray;
+  background-color: lightblue;
+}
+input {
+  padding: 5px;
+  background-color: ivory;
+}
+table {
+  background-color: aqua;
+}
+td {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+table,
+th,
+td {
+  padding: 20px;
+}
+button {
+  background-color: chartreuse;
+  padding: 5px;
+}
